@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Mateus Cantanhede
 
 - 🔭 Cursando Desenvolvimento de Sistema Etec Barueri
+- 💻 Cursando Informática FIEB - ITB Brasílio Flores de Azevedo 
 - 🎈  26/10
 - 😄 Pronouns: ele/dele
 
