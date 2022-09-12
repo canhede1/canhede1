@@ -25,9 +25,7 @@
   <div>
   <a href = "mailto:mateuscantanhede22@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/alex-macedo-610860235/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "https://github.com/Alexxmfs/Alexxmfs/blob/https/github.com/Alexxmfs/245tp1/Alex%20Macedo%20-%20(Portugu%C3%AAs)%20CV.pdf">
   <img src="https://img.shields.io/badge/📄%20Resume-24292e?style=for-the-badge&labelColor=24292e" target="_blank"></a>
 
       
