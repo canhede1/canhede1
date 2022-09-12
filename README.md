@@ -3,7 +3,6 @@
 - 🔭 Cursando Desenvolvimento de Sistema Etec Barueri
 - 💻 Cursando Informática FIEB - ITB Brasílio Flores de Azevedo 
 - 🎈  26/10
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/Canhede1
