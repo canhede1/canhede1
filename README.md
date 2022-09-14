@@ -4,7 +4,7 @@
 - 💻 Cursando Informática FIEB - ITB Brasílio Flores de Azevedo 
 - 🎈  26/10
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/erfjs/Apps/main/prof-img.gif">
+<img align="center" alt="Coding" width="40" src="https://raw.githubusercontent.com/erfjs/Apps/main/prof-img.gif">
 
 <div align="center">
   <a href="https://github.com/Canhede1
