@@ -5,7 +5,7 @@
 - 🎈  26/10
 
 
-<img align="right" alt="Coding" width="200" height="180" src="https://raw.githubusercontent.com/erfjs/Apps/main/prof-img.gif"> 
+<img align="right" alt="Coding" width="250" height="180" src="https://raw.githubusercontent.com/erfjs/Apps/main/prof-img.gif"> 
 
 
 
