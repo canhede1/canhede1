@@ -18,12 +18,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canhede1&layout=compact&langs_count=7&theme=dark"/>
 </div>
                                                                                                                                            
-##                                                                                                                                           
+##                                                                                                                                          
 
-[![](https://raw.githubusercontent.com/canhede1/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/canhede1/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/canhede1/github-profile-summary-cards)
-
-
-##
                                                                                                                                                                                                                                              
   
   <div style="display: inline_block"><br>                                
