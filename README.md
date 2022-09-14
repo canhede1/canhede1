@@ -19,6 +19,8 @@
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
      <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
           src="https://i.pinimg.com/564x/a3/54/f2/a354f2a3713632f175ffa37ef9a73a3b.jpg">
+          
+          <a href="https://linkedin.com/in/erfan-granmayeh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erfjs" height="30" width="40" /></a>
  
 
  ##
