@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Mateus Cantanhede
-- 🔭 Cursando Desenvolvimento de Sistema Etec Barueri
-- 💻 Cursando Informática FIEB - ITB Brasílio Flores de Azevedo 
+- 🔭  Desenvolvimento de Sistema Etec Barueri
+- 💻  Informática FIEB - ITB Brasílio Flores de Azevedo 
 - 😊 Um Jovem Interessado na Área de T.I 
 - 🎈  26/10
 ##
